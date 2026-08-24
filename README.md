@@ -77,4 +77,4 @@ This repository covers the core detection model. A more advanced, full-stack ver
 
 ## Author
 
-Dagar — B.Tech CSE (AI/ML), K.R. Mangalam University
+Dev — B.Tech CSE (AI/ML), K.R. Mangalam University
